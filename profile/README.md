@@ -30,20 +30,22 @@ Estamos sempre estudando novas tecnologias e expandindo nossa stack! 💡
 
 ---
 
-### 🧑‍💻 Membros da KaimanByte
+### 🤝 Contribuintes
 
-| Nome | Função | GitHub | LinkedIn |
-|------|--------|--------|----------|
-| Luka Gomes | Scrum Master | [Github](https://github.com/LukaGomes) | [LinkedIn](https://www.linkedin.com/in/luka-gomes-de-souza-chaves-12b68718a/) |
-| Erick Rost | Product Owner | [Github](https://github.com/erickrost) | [LinkedIn](https://www.linkedin.com/in/erick-rost/) |
-| Vitória Vargas | Desenvolvedor | [Github](https://github.com/vitvargas) | [LinkedIn](http://www.linkedin.com/in/vit%C3%B3ria-barbara-vargas-9b920b351) |
-| Rafael Melo | Desenvolvedor | [Github](https://github.com/RafaelPMR) | [LinkedIn](https://www.linkedin.com/in/rafael-prado-de-melo-raimundo-55a150144?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
-| João Pedro | Desenvolvedor | [Github](https://github.com/JoaoPedroLuvisariSeveriano) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-luvisari-severiano-bb1aa9303/) |
-| Breno Augusto | Desenvolvedor | [Github](https://github.com/brenoasj) | [LinkedIn](https://www.linkedin.com/in/brenoaugusto1910?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| Gabriel Oliveira | Desenvolvddor  | [Github](https://github.com/GabrielOlsa) | [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-96013138b?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
-| Thiago Guedes | Desenvolvedor | [Github](https://github.com/Thiago-Tolosa) | [LinkedIn](https://www.linkedin.com/in/thiago-guedes-4965b0390?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+Lista de pessoas que, em algum momento, já contribuíram para projetos desenvolvidos pela **KaimanByte**.
 
-> *As funções variam conforme o projeto — adaptabilidade faz parte do nosso DNA.*
+| Nome | GitHub | LinkedIn |
+|------|--------|----------|
+| Luka Gomes | [Github](https://github.com/LukaGomes) | [LinkedIn](https://www.linkedin.com/in/luka-gomes-de-souza-chaves-12b68718a/) |
+| Erick Rost | [Github](https://github.com/erickrost) | [LinkedIn](https://www.linkedin.com/in/erick-rost/) |
+| Vitória Vargas | [Github](https://github.com/vitvargas) | [LinkedIn](http://www.linkedin.com/in/vit%C3%B3ria-barbara-vargas-9b920b351) |
+| Rafael Melo | [Github](https://github.com/RafaelPMR) | [LinkedIn](https://www.linkedin.com/in/rafael-prado-de-melo-raimundo-55a150144) |
+| João Pedro | [Github](https://github.com/JoaoPedroLuvisariSeveriano) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-luvisari-severiano-bb1aa9303/) |
+| Breno Augusto | [Github](https://github.com/brenoasj) | [LinkedIn](https://www.linkedin.com/in/brenoaugusto1910) |
+| Gabriel Oliveira | [Github](https://github.com/GabrielOlsa) | [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-96013138b) |
+| Thiago Guedes | [Github](https://github.com/Thiago-Tolosa) | [LinkedIn](https://www.linkedin.com/in/thiago-guedes-4965b0390) |
+
+> As funções podem variar entre diferentes projetos da KaimanByte.
 
 ---
 
