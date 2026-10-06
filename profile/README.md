@@ -21,10 +21,10 @@ Atuamos com **Aprendizagem Baseada em Projetos (ABP)**, atendendo demandas reais
 |----------|-------------|
 | Front-end | HTML • CSS • JavaScript • React |
 | Back-end | Node.js • Express.js |
-| Banco de Dados | PostgreSQL • MongoDB |
+| Banco de Dados | PostgreSQL • MongoDB • NestJS|
 | Versionamento | Git & GitHub |
 | Metodologias | Scrum • Kanban |
-| Ferramentas | Figma • VScode • Docker *(em evolução)* |
+| Ferramentas | Figma • VScode • Docker |
 
 Estamos sempre estudando novas tecnologias e expandindo nossa stack! 💡
 
@@ -43,7 +43,8 @@ Lista de pessoas que, em algum momento, já contribuíram para projetos desenvol
 | João Pedro | [Github](https://github.com/JoaoPedroLuvisariSeveriano) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-luvisari-severiano-bb1aa9303/) |
 | Breno Augusto | [Github](https://github.com/brenoasj) | [LinkedIn](https://www.linkedin.com/in/brenoaugusto1910) |
 | Gabriel Oliveira | [Github](https://github.com/GabrielOlsa) | [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-96013138b) |
-| Thiago Guedes | [Github](https://github.com/Thiago-Tolosa) | [LinkedIn](https://www.linkedin.com/in/thiago-guedes-4965b0390) |
+| Thiago Guedes | [Github](https://github.com/Thiago-Tolosa) | [LinkedIn](https://www.linkedin.com/in/thiago-tolosa) |
+| João Paulo | [Github](https://github.com/JoaoLorena0) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-lorena-056b95271/) |
 
 > As funções podem variar entre diferentes projetos da KaimanByte.
 
